@@ -1,0 +1,6 @@
+{
+  "stack": "TimeoutException: Operation timed out after '10s'\n    at mk (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:18:743)\n    at X.onTimeout [as effect_instruction_i0] (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:54132)\n    at https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:33025\n    at effect_internal_function (https://dashboard.union.build/_app/immutable/chunks/CluEn1xf.js:1:5523)\n    at mg.Sync (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:33016)\n    at https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:36023\n    at Object.context (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:18:15813)\n    at mg.runLoop (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:35899)\n    at mg.evaluateEffect (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:31190)\n    at mg.evaluateMessageWhileSuspended (https://dashboard.union.build/_app/immutable/chunks/CtQK9y6C.js:24:30847)",
+  "message": "Operation timed out after '10s'",
+  "_tag": "TimeoutException",
+  "name": "TimeoutException"
+}
